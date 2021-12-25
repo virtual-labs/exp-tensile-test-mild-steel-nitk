@@ -2,38 +2,106 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The law which influence the material up to yield point.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Stress law",
+        "b": "Hooks law",
+        "c": "Bernoulli's law",
+        "d": "Poisson's law"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "While conducting the experiment, the mode of fracture observed in mild steel specimen is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Star shape",
+        "b": "Granular shape",
+        "c": "Cup and cone shape",
+        "d": "Fibrous shape"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "What is the distance between the punch marks in the experiment?",
+      "answers": {
+        "a": "2.5d",
+        "b": "3d",
+        "c": "4.5d",
+        "d": "5d"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Yield point is the point on stress/strain graph where:",
+      "answers": {
+        "a": "Failure of materials occur",
+        "b": "Elastic deformation commences",
+        "c": "Plastic deformation commences",
+        "d": "Ultimate tensile strength occur"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Elastic deformation of the material is associated with",
+      "answers": {
+        "a": "Toughness of material",
+        "b": "Ductility of the material",
+        "c": "Hardness of the material",
+        "d": "Permanent deformation of the material"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Arrange in order sequence of experiment </br> i) ultimate load</br>ii) upper yield point </br>iii) elastic region </br>iv) breaking load </br>v)lower yield point",
+      "answers": {
+        "a": "Upper yield point, lower yield point, elastic region, ultimate load, breaking load",
+        "b": "lower yield point, upper yield point, elastic region, breaking load, ultimate load",
+        "c": "Elastic region, lower yield point, upper yield point, ultimate load ,breaking load",
+        "d": "Eelastic region, upper yield point, lower yield point ,ultimate load ,breaking load"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
