@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Choose the correct answer </br> i) All work done on the specimen is stored in form of strain energy</br>ii) Part of energy is wasted in form of heat and sound",
+      "answers": {
+        "a": "i) plastic stage ii) elastic stage",
+        "b": "i) semisolid stage ii) plastic stage",
+        "c": "i) elastic stage ii) semisolid",
+        "d": "i) elastic stage ii) plastic stage"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Tensile stress measured in",
+      "answers": {
+        "a": "Watts",
+        "b": "Newton",
+        "c": "Pascal",
+        "d": "Half"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Significant necking was found to occur in a tensile test piece. Examine the areas indicated on stress/strain curve and indicate where necking of specimen has occurred.</br><img src='images/q13-q.png'/>",
+      "answers": {
+        "a": "A to B",
+        "b": "B to C",
+        "c": "C to D",
+        "d": "D to E"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Following statement in relation to young's modulus are correct with exception of",
+      "answers": {
+        "a": "It is the measure of resistance to elastic deformation",
+        "b": "Equal to constant E identified in Hooke's law",
+        "c": "It is the measure of resistance to plastic deformation",
+        "d": "It is the measure of modulus of stiffness"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Which mechanical property of the material is indicated by the total area under a stress strain curve",
+      "answers": {
+        "a": "Toughness",
+        "b": "Strength",
+        "c": "Ultimate tensile strength",
+        "d": "Ductility"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    }
+  ]
+}
